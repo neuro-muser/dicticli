@@ -21,12 +21,7 @@ wrong_answer(){
 	main
 }
 
-locking_dictionary(){
-	lock="$(dirname $0)/.lock.lck"
-	touch $lock
-	sleep $LOCK_SECONDS 
-	rm $lock
-}
+
 
 right_answer(){
 	echo_deluxe $GREEN "Correct!"
@@ -35,7 +30,7 @@ right_answer(){
 	# sed -i "${strnum}s/.*/$english\t|\t$ukrainian\t|\t$num/" "$WORDLIST"
 	perl -pe "s/^\Q$english\E.*/$english\t|\t$ukrainian\t|\t$num/" "$WORDLIST" > temp && mv temp "$WORDLIST"
 
-	locking_dictionary & ## create lock so dictionary wouldn`t appear next 15 mins
+	nohup $(dirname $0)/lock.sh $LOCK_SECONDS >/dev/null 2>&1 & ## create lock so dictionary wouldn`t appear next 15 mins
 	
 	[ "$num" -ge $TRANSLATE_ATTEMPTS ] && sed -i "/$english/d" $WORDLIST && echo_deluxe $YELLOW "Word deleted!"
 	exit 0
