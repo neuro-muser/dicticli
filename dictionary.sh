@@ -2,7 +2,7 @@
 
 WORDLIST="$(dirname $0)/words.txt"
 TRANSLATE_ATTEMPTS=3
-LOCK_SECONDS=900
+LOCK_SECONDS=600
 
 echo_deluxe(){
 	local color_code=$1
@@ -22,7 +22,7 @@ wrong_answer(){
 }
 
 locking_dictionary(){
-	local lock="$(dirname $0)/.lock.lck"
+	lock="$(dirname $0)/.lock.lck"
 	touch $lock
 	sleep $LOCK_SECONDS 
 	rm $lock
