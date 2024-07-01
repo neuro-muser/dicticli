@@ -16,6 +16,8 @@ handle_signals() {
 
 wrong_answer(){
 	echo_deluxe $RED "Wrong! Correct translation: '$english'\n"
+	sleep 3
+	clear
 	main
 }
 
