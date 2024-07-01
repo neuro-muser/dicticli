@@ -2,7 +2,7 @@
 
 WORDLIST="$(dirname $0)/words.txt"
 TRANSLATE_ATTEMPTS=3
-
+LOCK_SECONDS=900
 
 echo_deluxe(){
 	local color_code=$1
@@ -21,6 +21,12 @@ wrong_answer(){
 	main
 }
 
+locking_dictionary(){
+	local lock="$(dirname $0)/.lock.lck"
+	touch $lock
+	sleep $LOCK_SECONDS 
+	rm $lock
+}
 
 right_answer(){
 	echo_deluxe $GREEN "Correct!"
@@ -28,6 +34,9 @@ right_answer(){
 	strnum="$(grep -n -F -w "$english" $WORDLIST | cut -d : -f 1)s"
 	# sed -i "${strnum}s/.*/$english\t|\t$ukrainian\t|\t$num/" "$WORDLIST"
 	perl -pe "s/^\Q$english\E.*/$english\t|\t$ukrainian\t|\t$num/" "$WORDLIST" > temp && mv temp "$WORDLIST"
+
+	locking_dictionary & ## create lock so dictionary wouldn`t appear next 15 mins
+	
 	[ "$num" -ge $TRANSLATE_ATTEMPTS ] && sed -i "/$english/d" $WORDLIST && echo_deluxe $YELLOW "Word deleted!"
 	exit 0
 }
@@ -49,4 +58,4 @@ RED="31"
 GREEN="32"
 YELLOW="33"
 
-main
+[ -f "$(dirname $0)/.lock.lck" ] || main
