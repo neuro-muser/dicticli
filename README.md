@@ -13,5 +13,10 @@ Append this line to your *~/.bashrc*:
 ### fish
 Append this line to your *config.fish*:
 ```bash
-status is-login; or PATH/TO/dictionary.sh
+if status is-login; 
+else
+	if status --is-interactive
+		$HOME/doc/scripts/terminal-dictionary2/dictionary.sh
+	end
+end
 ```
