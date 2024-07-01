@@ -1,275 +1,275 @@
-To abolish 	| 		Скасовувати, знищувати	|	0
-To approve 	| 		Затвердити, схвалити	|	0
-To boast 	| 		Пишатися, хвалитися	|	0
-To contribute	|	Жертвувати, робити свій внесок	|	0
-To deliver 	| 		Доставляти, постачати, приносити	|	0
-To descend 	| 		Спуститися, сходити, зійти	|	0
-To concentrate	|	Зосереджуватися	|	0
-To distract	|		відволікати	|	0
-To torture 	| 		мучити	|	0
-To confuse 	| 		Плутати, заплутати, спантеличити	|	0
-To abandon 	| 		покинути, залишити	|	0
-To escape 	| 		Здійснити втечу, втекти	|	0
-To distribute	|	Розповсюджувати, розподілити	|	0
-To elaborate	|	Розробляти, опрацьовувати	|	0
-To construct	|	Будувати	|	0
-To humiliate	|	Принижувати	|	0
-To maintain	|		Підтримувати	|	0
-To squeeze 	| 		Зжимати, вижимати	|	0
-To delegate	|		Делегувати	|	0
-To transfer	|		Передавати	|	0
-To employ 	| 		Наймати	|	0
-To catch	|	Ловити, спіймати	|	0
-To commit 	| 		Здійснити, зафіксувати, доручити	|	0
-To arrange 	| 		Організувати, влаштувати	|	0
-To implement	|	Впровадити, реалізувати, здійснити	|	0
-To insulate	|		Огороджувати	|	0
-To encourage	|	Стимулювати	|	0
-To foster 	| 		Заохочувати	|	0
-To boost 	| 		Підвищувати	|	0
-To optimize	|		Оптимізувати	|	0
-To rank 	| 		Ранжувати	|	0
-To identify	|		Визначити, ідентифікувати	|	0
-To empower 	| 		Наділити повноваженнями, розширювати	|	0
-To ensure 	| 		Забезпечити, переконати, гарантувати	|	0
-To accomplish	|	Виконати, завершити, здійснити	|	0
-To customize	|	Налаштувати, зробити	|	0
-To localize	|		Локалізувати, визначити	|	0
-To tailor 	| 		Пристосувати	|	0
-To validate	|		Посвідчувати	|	0
-To reserve 	| 		Резервувати	|	0
-To estimate  |               Оцінювати	|	0
-To consulate	|	Консультувати	|	0
-To regard 	| 		Розглядати, враховувати, ставитись	|	0
-To indicate	|		Вказувати, позначати, показувати	|	0
-To unify 	| 		Об’єднувати	|	0
-To digitalize	|	Оцифрувати, перевести в online-формат	|	0
-To expose 	| 		Наражати	|	0
-To idealize	|		Ідеалізувати	|	0
-To navigate	|		Орієнтуватись	|	0
-To sustain 	| 		Витримувати	|	0
-To constrain	|	Стримувати	|	0
-To evade 	| 		Обійти	|	0
-To purchase	|		Придбати	|	0
-To earn 	| 		Заробляти	|	0
-To make sure	|	Впевнитись	|	0
-To prototype	|	Створити прототип	|	0
-To endeavour	|	Прагнути	|	0
-To blend 	| 		Змішувати	|	0
-To prioritize	|	Розставити пріоритети	|	0
-To mitigate	|		Пом’якшувати, приймати	|	0
-To emphasize	|	Підкреслити, наголосити	|	0
-To observe 	| 		Спостерігати, помічати	|	0
-To evolve 	| 		Развиватися, рости, проявлятися	|	0
-To incentivize	|	Стимулювати	|	0
-To respond 	| 		Відповідати	|	0
-To connect 	| 		З’єднати	|	0
-To command 	| 		Командувати	|	0
-To check-out	|	Перевірити	|	0
-To extend 	| 		Продовжити, розширити, збільшити	|	0
-To retain 	| 		Залишити, утримати, зберегти	|	0
-To exhibit 	| 		Показувати	|	0
-To invent 	| 		Винайти	|	0
-To abridge 	| 		Обмежувати	|	0
-To self-express	|	Самовиражатись	|	0
-To neglect 	| 		Нехтувати	|	0
-To negotiate	|	Домовлятися, вести переговори	|	0
-To upgrade	|	Підвищувати, покращувати	|	0
-To renew 	| 		Оновити	|	0
-To specialize	|	Спеціалізуватись	|	0
-To balance	|	Урівноважувати	|	0
-To absorb 	| 		Поглинати	|	0
-To overwhelm	|	Переповнювати	|	0
-To align 	| 		Вирівнювати	|	0
-To whistle 	| 		Свистіти	|	0
-To suspect	|	Подозрювати	|	0
-To surrender	|	Здатись	|	0
-To depend on	|	Залежати від	|	0
-To correct	| 		Виправляти	|	0
-To define 	| 		Визначити	|	0
-To visualize	|	Візуалізувати	|	0
-To design 	| 		Проектувати	|	0
-To minimize	|	Мінімалізувати	|	0
-To disturb 	| 		Турбувати	|	0
-To integrate	|	Інтегрувати	|	0
-To exchange	|		Обмінювати	|	0
-To organize	|	Організувати	|	0
-To collaborate	|	Співпрацювати	|	0
-To embed 	| 		Вбудовувати	|	0
-To generate	|	Генерувати	|	0
-addiction 	| 		Залежність	|	0
-amateur 	| 		Любитель	|	0
-ambivalence	|		Нерішучість	|	0
-commission 	| 		Комісія	|	0
-confidence 	| 		Впевненість	|	0
-craving 	| 		Бажання, жага	|	0
-district 	| 		Район	|	0
-evidence 	| 		Доказ, факт	|	0
-honesty 	| 		Чесність	|	0
-circumstance	|	Обставина	|	0
-kindness 	| 		Доброта	|	0
-disgust 	| 		Відраза	|	0
-suggestion	|	Пропозиція	|	0
-nobility 	| 		Благородство, достоїнство	|	0
-commotion 	| 		Метушня	|	0
-adherence 	| 		Прихильність	|	0
-devotion 	| 		Відданість	|	0
-enticement 	| 		Приманка, спокуса, заманювання	|	0
-attractiveness	|	Привабливість	|	0
-freedom-loving	|	Вільнолюбство	|	0
-rebel	|			Бунтар	|	0
-influence 	| 		Вплив	|	0
-sway	|			Коливання	|	0
-willpower 	| 		Сила воли	|	0
-inequality 	| 		Нерівність	|	0
-violence 	| 		Насилля, жорстокість	|	0
-bullying 	| 		Знущання	|	0
-godliness	|		Благочестя, бадьорість	|	0
-compassion	|	Співчуття	|	0
-inclusivity	|		Інклюзивність	|	0
-reciprocity	|	Взаємність	|	0
-friskiness 	| 		Грайливість, розкутість, жвавість	|	0
-fervour 	| 		Палкість, запал, завзяття	|	0
-youth 	| 		Молодість	|	0
-adolescence	|		Підлітковий вік	|	0
-prerequisite	|	Передумова, умова	|	0
-fortune 	| 		Доля, успіх, бажання	|	0
-Stubbornness	|	Впертість	|	0
-disappointment	|	Розчарування	|	0
-distancing	|	Дистанціювання	|	0
-isolation 	| 		Ізоляція	|	0
-self-care	|	Турбота про себе	|	0
-medication 	| 		Ліки	|	0
-celebration	|		Святкування	|	0
-physician 	| 		Лікар, терапевт	|	0
-treatment 	| 		Лікування	|	0
-improvement	|		Покращення	|	0
-dismay	|				Прикрість	|	0
-cancellation	|	Відміна	|	0
-suspiciousness	|	Підозрілість	|	0
-escalation 	| 		Загострення	|	0
-proceeding 	| 		Розгляд	|	0
-awareness 	| 		Усвідомлення	|	0
-responsibility	|	Відповідальність	|	0
-aftermath 	| 		Наслідки	|	0
-weakness 	| 		Слабкість	|	0
-rivalry 	| 		Суперництво, протистояння	|	0
-restlessness	|	Хвилювання	|	0
-uncertainty	|		Невпевненість, невизначеність	|	0
-stress resistance 	| Стресостійкість	|	0
-conscience 	| 		Совість	|	0
-mindfulness	|	Уважність, мислення, свідомість	|	0
-protection 	| 		Захист	|	0
-referral 	| 		Направлення	|	0
-hopelessness	|	Безнадійність	|	0
-reliability	|		Надійність	|	0
-verification	|	Перевірка	|	0
-self-isolation	|	Самоізоляція	|	0
-provocation	|	Провокація	|	0
-prevention 	| 		Профілактика	|	0
-side effect	|		Побічна дія	|	0
-vaccination	|		Вакцинація	|	0
-immunization	|	Іммунизація	|	0
-contradiction	|	Протиріччя	|	0
-emotion 	| 		Емоція	|	0
-disagreement	|	Розбіжність	|	0
-misunderstanding 	|Непорозуміння	|	0
-negotiation	|		Переговори	|	0
-downfall 	| 		падіння, упадок	|	0
-setback 	| 		невдача, провал	|	0
-bad luck 	| 		Невезіння, нещастя	|	0
-depression 	| 		Депресія	|	0
-solitude 	| 		Самотність	|	0
-self-blame	|	Самобичування	|	0
-disorder 	| 		Розлад	|	0
-instability	|	Нестабільність	|	0
-challenge	|		Виклик	|	0
-sustainability 	| Стійкість, життєздатність	|	0
-duration	|	Тривалість	|	0
-luckiness	|		Везіння	|	0
-fluke 	| 		Випадковість, шанс	|	0
-winning	|	Перемога	|	0
-lottery	|	Лотерея	|	0
-destination	|		Призначення	|	0
-advantage 	| 		Перевага	|	0
-win-win 	| 		Перемога	|	0
-condition 	| 		Умова	|	0
-contest 	| 		Конкурс	|	0
-humbleness	|	Смиренність, скромність, покірність	|	0
-fearlessness	|	Безстрашність	|	0
-hardening	|		Твердість	|	0
-buoyancy 	| 		Жвавість, життєлюбність	|	0
-cheerfulness	|	Життєрадісність, веселість	|	0
-hospitality	|	Гостинність, привітність	|	0
-morale 	| 		Мораль, дух	|	0
-wisdom 	| 		Мудрість	|	0
-Proficiency	|	Майстерність, уміння, кваліфікація	|	0
-applicant 	| 		Претендент	|	0
-decisiveness	|	Рішучість	|	0
-loophole 	| 		Лазівка	|	0
-frustration	|	Розчарування, засмучення	|	0
-knowledge	|		Знання	|	0
-decision-making 	| Прийняття рішення	|	0
-alacrity 	| 		Активність	|	0
-extremity 	| 		Крайність, завзятість, надмірність	|	0
-background	|	Фон, передумова	|	0
-preparatory	|	Підготовка	|	0
-Arrogant 	| 		Зарозумілий	|	0
-Civilian 	| 		Громадянський	|	0
-Commercial 	| 		Комерційний	|	0
-Convenient 	| 		Зручний	|	0
-Creative 	| 		Креативний, творчий	|	0
-Naughty 	| 		Пустотливий	|	0
-Stationary 	| 		Стаціонарний	|	0
-Valuable 	| 		Цінний	|	0
-Significant	|		Значний, суттєвий	|	0
-Foremost 	| 		Передовий, основний, головний	|	0
-Recent	|			Недавній	|	0
-Updated 	| 		Оновлений	|	0
-Operational	|		Оперативний, робочий	|	0
-Intuitive 	| 		Інтуїтивний	|	0
-Essential 	| 		Суттєвий, важливий	|	0
-Compliant 	| 		Відповідний	|	0
-Straightforward 	|Прямий, прямолінійний	|	0
-Understandable	|	Зрозумілий	|	0
-Uncompromising	|	Беззаперечний	|	0
-Distinguished	|	Визначний, шановний, відмінний	|	0
-Separate 	| 		Окремий	|	0
-Outstanding	|		Визначний	|	0
-Principal 	| 		Принциповий	|	0
-Leading 	| 		Лідируючий	|	0
-Cognitive	|	Когнітивний, пізнавальний	|	0
-Cutting-edge	|	Сучасний	|	0
-Precise	|	Точний, чіткий	|	0
-Unmatched 	| 		Неповторний, неперевершений	|	0
-Reasonable 	| 		Розумний, доцільний	|	0
-Fundamental	|	Фундаментальний	|	0
-Brilliant 	| 		Геніальний, неперевершений	|	0
-Inflexible 	| 		Незламний, непогрішний	|	0
-Crucial 	| 		Вирішальний, критичний, важливий	|	0
-Contemporary	|	Сучасний, aктуальный	|	0
-Duplicated	|	Дубльований	|	0
-Tedious 	| 		Втомливий, набридливий	|	0
-Multiple 	| 		Численний	|	0
-Individual 	| 		Індивідуальний	|	0
-Fitting 	| 		Підходящий	|	0
-Monotonous 	| 		Монотонний	|	0
-Ruthless 	| 		Нелюдський	|	0
-Multi-channel	|	Багатоканальний	|	0
-Astonishing	|		Дивовижний	|	0
-Ambitious 	| 		Амбіційний	|	0
-Captivating	|		Захоплюючий	|	0
-Profound 	| 		Глибокий, мудрий	|	0
-Qualified 	| 		Кваліфіковани	|	0
-Remarkable 	| 		Чудовий, видатний	|	0
-Additional 	| 		Допдатковий	|	0
-Burning 	| 		Який горить	|	0
-Unassuming 	| 		Невибагливий	|	0
-Meaningful 	| 		Значимий	|	0
-Private 	| 		Особистий	|	0
-Careful 	| 		Обережний	|	0
-Obscure 	| 		Спостережливий, незрозумілий	|	0
-Accomplished	|	Заможний, успішний, досягнутий	|	0
-Ridiculous 	| 		Смішний	|	0
-Contemptuous	|	Зневажливий	|	0
-Fashionable	|		Модний	|	0
+To abolish|Скасовувати, знищувати|0
+To approve|Затвердити, схвалити|0
+To boast|Пишатися, хвалитися|0
+To contribute|Жертвувати, робити свій внесок|0
+To deliver|Доставляти, постачати, приносити|0
+To descend|Спуститися, сходити, зійти|0
+To concentrate|Зосереджуватися|0
+To distract|відволікати|0
+To torture|мучити|0
+To confuse|Плутати, заплутати, спантеличити|0
+To abandon|покинути, залишити|0
+To escape|Здійснити втечу, втекти|0
+To distribute|Розповсюджувати, розподілити|0
+To elaborate|Розробляти, опрацьовувати|0
+To construct|Будувати|0
+To humiliate|Принижувати|0
+To maintain|Підтримувати|0
+To squeeze|Зжимати, вижимати|0
+To delegate|Делегувати|0
+To transfer|Передавати|0
+To employ|Наймати|0
+To catch|Ловити, спіймати|0
+To commit|Здійснити, зафіксувати, доручити|0
+To arrange|Організувати, влаштувати|0
+To implement|Впровадити, реалізувати, здійснити|0
+To insulate|Огороджувати|0
+To encourage|Стимулювати|0
+To foster|Заохочувати|0
+To boost|Підвищувати|0
+To optimize|Оптимізувати|0
+To rank|Ранжувати|0
+To identify|Визначити, ідентифікувати|0
+To empower|Наділити повноваженнями, розширювати|0
+To ensure|Забезпечити, переконати, гарантувати|0
+To accomplish|Виконати, завершити, здійснити|0
+To customize|Налаштувати, зробити|0
+To localize|Локалізувати, визначити|0
+To tailor|Пристосувати|0
+To validate|Посвідчувати|0
+To reserve|Резервувати|0
+To estimate|Оцінювати|0
+To consulate|Консультувати|0
+To regard|Розглядати, враховувати, ставитись|0
+To indicate|Вказувати, позначати, показувати|0
+To unify|Об’єднувати|0
+To digitalize|Оцифрувати, перевести в online-формат|0
+To expose|Наражати|0
+To idealize|Ідеалізувати|0
+To navigate|Орієнтуватись|0
+To sustain|Витримувати|0
+To constrain|Стримувати|0
+To evade|Обійти|0
+To purchase|Придбати|0
+To earn|Заробляти|0
+To make sure|Впевнитись|0
+To prototype|Створити прототип|0
+To endeavour|Прагнути|0
+To blend|Змішувати|0
+To prioritize|Розставити пріоритети|0
+To mitigate|Пом’якшувати, приймати|0
+To emphasize|Підкреслити, наголосити|0
+To observe|Спостерігати, помічати|0
+To evolve|Развиватися, рости, проявлятися|0
+To incentivize|Стимулювати|0
+To respond|Відповідати|0
+To connect|З’єднати|0
+To command|Командувати|0
+To check-out|Перевірити|0
+To extend|Продовжити, розширити, збільшити|0
+To retain|Залишити, утримати, зберегти|0
+To exhibit|Показувати|0
+To invent|Винайти|0
+To abridge|Обмежувати|0
+To self-express|Самовиражатись|0
+To neglect|Нехтувати|0
+To negotiate|Домовлятися, вести переговори|0
+To upgrade|Підвищувати, покращувати|0
+To renew|Оновити|0
+To specialize|Спеціалізуватись|0
+To balance|Урівноважувати|0
+To absorb|Поглинати|0
+To overwhelm|Переповнювати|0
+To align|Вирівнювати|0
+To whistle|Свистіти|0
+To suspect|Подозрювати|0
+To surrender|Здатись|0
+To depend on|Залежати від|0
+To correct| Виправляти|0
+To define|Визначити|0
+To visualize|Візуалізувати|0
+To design|Проектувати|0
+To minimize|Мінімалізувати|0
+To disturb|Турбувати|0
+To integrate|Інтегрувати|0
+To exchange|Обмінювати|0
+To organize|Організувати|0
+To collaborate|Співпрацювати|0
+To embed|Вбудовувати|0
+To generate|Генерувати|0
+addiction|Залежність|0
+amateur|Любитель|0
+ambivalence|Нерішучість|0
+commission|Комісія|0
+confidence|Впевненість|0
+craving|Бажання, жага|0
+district|Район|0
+evidence|Доказ, факт|0
+honesty|Чесність|0
+circumstance|Обставина|0
+kindness|Доброта|0
+disgust|Відраза|0
+suggestion|Пропозиція|0
+nobility|Благородство, достоїнство|0
+commotion|Метушня|0
+adherence|Прихильність|0
+devotion|Відданість|0
+enticement|Приманка, спокуса, заманювання|0
+attractiveness|Привабливість|0
+freedom-loving|Вільнолюбство|0
+rebel|Бунтар|0
+influence|Вплив|0
+sway|Коливання|0
+willpower|Сила волi|0
+inequality|Нерівність|0
+violence|Насилля, жорстокість|0
+bullying|Знущання|0
+godliness|Благочестя, бадьорість|0
+compassion|Співчуття|0
+inclusivity|Інклюзивність|0
+reciprocity|Взаємність|0
+friskiness|Грайливість, розкутість, жвавість|0
+fervour|Палкість, запал, завзяття|0
+youth|Молодість|0
+adolescence|Підлітковий вік|0
+prerequisite|Передумова, умова|0
+fortune|Доля, успіх, бажання|0
+Stubbornness|Впертість|0
+disappointment|Розчарування|0
+distancing|Дистанціювання|0
+isolation|Ізоляція|0
+self-care|Турбота про себе|0
+medication|Ліки|0
+celebration|Святкування|0
+physician|Лікар, терапевт|0
+treatment|Лікування|0
+improvement|Покращення|0
+dismay|Прикрість|0
+cancellation|Відміна|0
+suspiciousness|Підозрілість|0
+escalation|Загострення|0
+proceeding|Розгляд|0
+awareness|Усвідомлення|0
+responsibility|Відповідальність|0
+aftermath|Наслідки|0
+weakness|Слабкість|0
+rivalry|Суперництво, протистояння|0
+restlessness|Хвилювання|0
+uncertainty|Невпевненість, невизначеність|0
+stress resistance|Стресостійкість|0
+conscience|Совість|0
+mindfulness|Уважність, мислення, свідомість|0
+protection|Захист|0
+referral|Направлення|0
+hopelessness|Безнадійність|0
+reliability|Надійність|0
+verification|Перевірка|0
+self-isolation|Самоізоляція|0
+provocation|Провокація|0
+prevention|Профілактика|0
+side effect|Побічна дія|0
+vaccination|Вакцинація|0
+immunization|Іммунизація|0
+contradiction|Протиріччя|0
+emotion|Емоція|0
+disagreement|Розбіжність|0
+misunderstanding |Непорозуміння|0
+negotiation|Переговори|0
+downfall|падіння, упадок|0
+setback|невдача, провал|0
+bad luck|Невезіння, нещастя|0
+depression|Депресія|0
+solitude|Самотність|0
+self-blame|Самобичування|0
+disorder|Розлад|0
+instability|Нестабільність|0
+challenge|Виклик|0
+sustainability|Стійкість, життєздатність|0
+duration|Тривалість|0
+luckiness|Везіння|0
+fluke|Випадковість, шанс|0
+winning|Перемога|0
+lottery|Лотерея|0
+destination|Призначення|0
+advantage|Перевага|0
+win-win|Перемога|0
+condition|Умова|0
+contest|Конкурс|0
+humbleness|Смиренність, скромність, покірність|0
+fearlessness|Безстрашність|0
+hardening|Твердість|0
+buoyancy|Жвавість, життєлюбність|0
+cheerfulness|Життєрадісність, веселість|0
+hospitality|Гостинність, привітність|0
+morale|Мораль, дух|0
+wisdom|Мудрість|0
+Proficiency|Майстерність, уміння, кваліфікація|0
+applicant|Претендент|0
+decisiveness|Рішучість|0
+loophole|Лазівка|0
+frustration|Розчарування, засмучення|0
+knowledge|Знання|0
+decision-making|Прийняття рішення|0
+alacrity|Активність|0
+extremity|Крайність, завзятість, надмірність|0
+background|Фон, передумова|0
+preparatory|Підготовка|0
+Arrogant|Зарозумілий|0
+Civilian|Громадянський|0
+Commercial|Комерційний|0
+Convenient|Зручний|0
+Creative|Креативний, творчий|0
+Naughty|Пустотливий|0
+Stationary|Стаціонарний|0
+Valuable|Цінний|0
+Significant|Значний, суттєвий|0
+Foremost|Передовий, основний, головний|0
+Recent|Недавній|0
+Updated|Оновлений|0
+Operational|Оперативний, робочий|0
+Intuitive|Інтуїтивний|0
+Essential|Суттєвий, важливий|0
+Compliant|Відповідний|0
+Straightforward|Прямий, прямолінійний|0
+Understandable|Зрозумілий|0
+Uncompromising|Беззаперечний|0
+Distinguished|Визначний, шановний, відмінний|0
+Separate|Окремий|0
+Outstanding|Визначний|0
+Principal|Принциповий|0
+Leading|Лідируючий|0
+Cognitive|Когнітивний, пізнавальний|0
+Cutting-edge|Сучасний|0
+Precise|Точний, чіткий|0
+Unmatched|Неповторний, неперевершений|0
+Reasonable|Розумний, доцільний|0
+Fundamental|Фундаментальний|0
+Brilliant|Геніальний, неперевершений|0
+Inflexible|Незламний, непогрішний|0
+Crucial|Вирішальний, критичний, важливий|0
+Contemporary|Сучасний, aктуальный|0
+Duplicated|Дубльований|0
+Tedious|Втомливий, набридливий|0
+Multiple|Численний|0
+Individual|Індивідуальний|0
+Fitting|Підходящий|0
+Monotonous|Монотонний|0
+Ruthless|Нелюдський|0
+Multi-channel|Багатоканальний|0
+Astonishing|Дивовижний|0
+Ambitious|Амбіційний|0
+Captivating|Захоплюючий|0
+Profound|Глибокий, мудрий|0
+Qualified|Кваліфіковани|0
+Remarkable|Чудовий, видатний|0
+Additional|Допдатковий|0
+Burning|Який горить|0
+Unassuming|Невибагливий|0
+Meaningful|Значимий|0
+Private|Особистий|0
+Careful|Обережний|0
+Obscure|Спостережливий, незрозумілий|0
+Accomplished|Заможний, успішний, досягнутий|0
+Ridiculous|Смішний|0
+Contemptuous|Зневажливий|0
+Fashionable|Модний|0

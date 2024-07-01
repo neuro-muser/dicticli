@@ -1,16 +1,17 @@
 #!/bin/bash
 
-words="$(dirname $0)/words.txt"
-
-handle_signals() {
-    echo_deluxe $RED "Niemals, du schlaues Schwein!"
-}
+WORDLIST="$(dirname $0)/words.txt"
+TRANSLATE_ATTEMPTS=3
 
 
 echo_deluxe(){
 	local color_code=$1
     local text=$2
     echo -e "\e[${color_code}m${text}\e[0m"
+}
+
+handle_signals() {
+	echo ""
 }
 
 wrong_answer(){
@@ -22,16 +23,16 @@ wrong_answer(){
 right_answer(){
 	echo_deluxe $GREEN "Correct!"
 	num=$((num+1))
-	strnum="$(grep -n -F -w "$english" $words | cut -d : -f 1)s"
-	# sed -i "${strnum}s/.*/$english\t|\t$ukrainian\t|\t$num/" "$words"
-	perl -pe "s/^\Q$english\E.*/$english\t|\t$ukrainian\t|\t$num/" "$words" > temp && mv temp "$words"
-	[ "$num" -ge 3 ] && sed -i "/$english/d" $words && echo_deluxe $YELLOW "ГООООООЛ"
+	strnum="$(grep -n -F -w "$english" $WORDLIST | cut -d : -f 1)s"
+	# sed -i "${strnum}s/.*/$english\t|\t$ukrainian\t|\t$num/" "$WORDLIST"
+	perl -pe "s/^\Q$english\E.*/$english\t|\t$ukrainian\t|\t$num/" "$WORDLIST" > temp && mv temp "$WORDLIST"
+	[ "$num" -ge $TRANSLATE_ATTEMPTS ] && sed -i "/$english/d" $WORDLIST && echo_deluxe $YELLOW "Word deleted!"
 	exit 0
 }
 
 main(){
 	trap handle_signals INT QUIT TERM HUP
-	line=$(shuf -n 1 "$words")
+	line=$(shuf -n 1 "$WORDLIST")
 
 	english=$(echo "$line" | awk -F '|' '{print $1}' | xargs)
 	ukrainian=$(echo "$line" | awk -F '|' '{print $2}' | xargs)
